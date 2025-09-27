@@ -1,4 +1,4 @@
-﻿﻿## Result Pattern in C# / .NET
+## ❓ Result Pattern in C# / .NET
 
 This repository demonstrates the implementation of the **Result Pattern** in C# and .NET.  
 The purpose of this project is **educational**, to show how to design a clean and structured way of handling results, errors, and success responses in applications, especially in **ASP.NET Core Web APIs**.
